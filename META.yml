@@ -1,6 +1,6 @@
 ---
 name: Algorithm-Scale2x
-version: 0.01
+version: 0.02
 author:
   - 'Brian Cassidy <bricas@cpan.org>'
 abstract: Generic implementation of the Scale2x algorithm
@@ -12,7 +12,7 @@ build_requires:
 provides:
   Algorithm::Scale2x:
     file: lib/Algorithm/Scale2x.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.2807
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
